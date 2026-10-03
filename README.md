@@ -58,7 +58,6 @@ to RFM segmentation and cohort retention.
 - **Analytics:** RFM segmentation, cohort retention, Pareto, YoY/MoM growth
 - **Visualization:** Power BI, DAX measures, conditional formatting, slicers
 
-## 👤 Author
 
 ## 👤 Author
 
