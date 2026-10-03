@@ -8,7 +8,7 @@ to RFM segmentation and cohort retention.
 
 - **PostgreSQL** — Data storage and analysis
 - **Power BI** — Interactive dashboard
-- **Dataset** — Superstore sales (2014–2017, ~10K rows)
+- **Dataset** — Superstore sales (2023–2026, ~10K rows)
 
 ## 📊 Dashboard Preview
 
@@ -61,4 +61,4 @@ to RFM segmentation and cohort retention.
 ## 👤 Author
 
 [Saklain Alam]
-[www.linkedin.com/in/saklain-alam-0342ab408] | [Email]
+[www.linkedin.com/in/saklain-alam-0342ab408]
