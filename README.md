@@ -60,5 +60,6 @@ to RFM segmentation and cohort retention.
 
 ## 👤 Author
 
-[Saklain Alam]
-[www.linkedin.com/in/saklain-alam-0342ab408]
+## 👤 Author
+
+Saklain Alam — [LinkedIn](https://www.linkedin.com/in/saklain-alam-0342ab408)
