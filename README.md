@@ -12,7 +12,7 @@ to RFM segmentation and cohort retention.
 
 ## 📊 Dashboard Preview
 
-![Dashboard](dashboard_preview.png)
+![Superstore Sales Dashboard](Superstore-Sales-Dashboard.png)
 
 ## 🔍 Business Questions Answered
 
